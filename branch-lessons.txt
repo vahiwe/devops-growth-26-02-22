@@ -9,3 +9,6 @@ To view your remote URL for a repository, use the following command:
 
 To delete a branch, use the following command:
 - git branch -d <branch_name>
+
+To merge a branch, use the following command:
+- git merge <branch_name>
