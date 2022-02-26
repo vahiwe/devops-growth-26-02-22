@@ -16,3 +16,8 @@ To commit changes to the staging area, use the command:
 To push your commits to the remote repository, use the command:
 - git push origin master || git push origin <branch> || git push
 
+To fetch commits from the remote repository, use the command:
+- git fetch
+
+To pull commits from the remote repository, use the command:
+- git pull origin master || git pull origin <branch> || git pull
