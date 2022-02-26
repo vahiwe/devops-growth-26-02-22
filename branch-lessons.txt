@@ -1,0 +1,8 @@
+To create a new branch, use the following command:
+- git checkout -b <branch_name>
+
+To switch to a branch, use the following command:
+- git checkout <branch_name>
+
+To view your remote URL for a repository, use the following command:
+- git remote -v
